@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+/*title + paragrapher*/
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #e53070;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.8em;
+
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+    font-size: 0.8em;
+    font-weight: 400;
+}
